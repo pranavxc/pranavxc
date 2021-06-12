@@ -6,10 +6,6 @@
 </a>
 
 
-<hr>
-
-
-
 [<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">](http://buymeacoff.ee/pranavc)
 
 
