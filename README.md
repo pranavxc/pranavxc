@@ -6,8 +6,8 @@
 </a>
 
  -->
-[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">](http://buymeacoff.ee/pranavc)
-
+<!-- [<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">](http://buymeacoff.ee/pranavc)
+ -->
 
 <!--
 **pranavcbalan/pranavcbalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
