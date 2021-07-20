@@ -1,20 +1,20 @@
 ## Hey, I'm Pranav C! 👋
 
-- 😎 I'm a core committer @NocoDB amd we are doing something cool.
-- 😍 I love to learn, code, solve problems, etc...
-- ♥️ Always loves to explore and learn new things.
+- 😎  I'm a core committer @NocoDB amd we are doing something cool.
+- 😍  I love to learn, code, solve problems, etc...
+- ♥️  Always loves to explore and learn new things.
 
 ### Hobbies
 
-- 🎵 Listening music
-- 🎦 Watching webseries (Currently watching - House MD)
-- 🎮 Playing games
-- 💻 Spending time to improve my skills,, like: Stackoverflow, Codinggame, Cssbattle, Udemy courses, etc...
+- 🎵  Listening music
+- 🎦  Watching webseries (Currently watching - House MD)
+- 🎮  Playing games
+- 💻  Spending time to improve my skills,, like: Stackoverflow, Codinggame, Cssbattle, Udemy courses, etc...
 
 ### Future goals
 
-- 🥅 Wanna learn golang ;)
-- 🎸 Planning to learn guitar 😂
+- 🥅  Wanna learn golang ;)
+- 🎸  Planning to learn guitar 😂
 
 <!--#A Heartbroken Boy..............-->
 
