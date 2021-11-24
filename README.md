@@ -21,7 +21,7 @@
 
 ----
 
-<table><tr><th>♥️ If you like me ♥️ <br><a href="http://buymeacoff.ee/pranavc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"><a></th></tr><table>
+<table><tr><th><a href="http://buymeacoff.ee/pranavc"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"><a></th></tr><table>
 
 
 ----
