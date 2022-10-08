@@ -1,6 +1,6 @@
 ## Hey, I'm Pranav C! 👋
 
-- 😎  I'm a core committer @NocoDB amd we are doing something cool.
+- 😎  I'm a core committer @ NocoDB and we are developing something cool.
 - 😍  I love to learn, code, solve problems, etc...
 - ♥️  Always loves to explore and learn new things.
 
